@@ -1,0 +1,55 @@
+<style>
+
+body{ color: white;
+    background: rgb(77, 77, 78);
+    font-family: 'Courier New', Courier, monospace,sans-serif;
+    text-align: center;
+}
+
+ h1{
+   color: white;
+   background-color: skyblue;
+  font-family: arial, Helvetica, sans-serif;
+   text-align: center;
+   border: solid;
+ }
+
+h2{color: rgb(8, 8, 8);
+    background: white(77, 77, 78);
+    font-family: 'Courier New', Courier, monospace,sans-serif;
+    text-align: center;
+}
+ 
+p{color: white;
+    background: rgb(77, 77, 78);
+    font-family: 'Courier New', Courier, monospace,sans-serif;
+    text-align: center;
+
+  
+}
+p1{color: white;
+    background: rgb(77, 77, 78);
+    font-family: 'Courier New', Courier, monospace,sans-serif;
+    text-align:center;
+
+}
+p2{color: rgb(8, 8, 8);
+    background: white(77, 77, 78);
+    font-family: 'Courier New', Courier, monospace,sans-serif;
+    onclick-align: center;
+    text-align: center;
+    }
+
+input {color: white;
+    background: rgb(77, 77, 78);
+    font-family: 'Courier New', Courier, monospace,sans-serif;
+    text-align: center;
+
+}
+button onclick{color: white;
+   background-color: black;
+  border-box: black;
+   font-family: 'Courier New', Courier, monospace,sans-serif;
+   text-align: center;
+}
+</style>
